@@ -1,8 +1,6 @@
 
 
-# Proyecto: BALDUR
-
-#Programación Avanzada 
+# Proyecto Progrmacioon Avanzada
 
 ## Descripción
 
