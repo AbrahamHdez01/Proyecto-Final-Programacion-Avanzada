@@ -1,0 +1,19 @@
+Nombre: 
+Raza: 
+Género: 
+Orientación: 
+Clase: 
+Arma inicial: 
+Equipamiento: Nivel: 0
+Oro: 100
+Puntos de habilidad: 0
+Estamina: 100
+Mana: 100
+Intelecto: 0
+Fuerza: 0
+Agilidad: 0
+Casco: 
+Armadura: 
+Botas: 
+Arma: 
+Amuleto: 
