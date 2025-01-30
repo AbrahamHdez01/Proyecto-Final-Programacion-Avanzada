@@ -1,6 +1,6 @@
 
 
-# Proyecto Progrmación Avanzada
+# Proyecto Programación Avanzada
 
 ## Descripción
 
